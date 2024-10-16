@@ -1,1 +1,1 @@
-print("Init")
+print("P4 modifie Init")
